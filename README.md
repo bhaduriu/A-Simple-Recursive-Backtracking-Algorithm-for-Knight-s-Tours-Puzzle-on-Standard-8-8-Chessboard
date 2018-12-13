@@ -1,4 +1,4 @@
-# A-Simple-Recursive-Backtracking-Algorithm-for-Knight-s-Tours-Puzzle-on-Standard-8-8-Chessboard
+# A Simple Recursive Backtracking Algorithm for Knight's Tours Puzzle on Standard 8X8 Chessboard
 [IEEE Conference Paper Link](https://ieeexplore.ieee.org/abstract/document/8126004)
 [View Citations](https://scholar.google.co.in/scholar?oi=bibs&hl=en&cites=11978541075388951494&as_sdt=5)
 
