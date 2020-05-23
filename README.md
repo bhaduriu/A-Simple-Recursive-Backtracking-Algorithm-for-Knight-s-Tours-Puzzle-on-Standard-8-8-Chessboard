@@ -1,6 +1,8 @@
 # A Simple Recursive Backtracking Algorithm for Knight's Tours Puzzle on Standard 8X8 Chessboard
 [IEEE Conference Paper Link](https://ieeexplore.ieee.org/abstract/document/8126004)
 </br></br>
+[Google Scholar Profile](https://scholar.google.com/citations?user=MaJJ1PYAAAAJ&hl=en#)
+</br></br>
 [View Citations](https://scholar.google.co.in/scholar?oi=bibs&hl=en&cites=11978541075388951494&as_sdt=5)
 
 
@@ -15,13 +17,8 @@ In this paper, we propose a simple recursive backtracking algorithm and compare 
 
 
 Published in: 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)
-
 Date of Conference: 13-16 Sept. 2017
-
 Date Added to IEEE Xplore: 04 December 2017
-
 INSPEC Accession Number: 17414709
-
 DOI: 10.1109/ICACCI.2017.8126004
-
 Publisher: IEEE
